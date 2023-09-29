@@ -1,0 +1,11 @@
+Y:\mallain\Visual Studio\calc2.0\calc2.0\obj\Debug\calc2.0.csproj.AssemblyReference.cache
+Y:\mallain\Visual Studio\calc2.0\calc2.0\obj\Debug\calc2.0.csproj.SuggestedBindingRedirects.cache
+Y:\mallain\Visual Studio\calc2.0\calc2.0\obj\Debug\calc2._0.Form1.resources
+Y:\mallain\Visual Studio\calc2.0\calc2.0\obj\Debug\calc2._0.Properties.Resources.resources
+Y:\mallain\Visual Studio\calc2.0\calc2.0\obj\Debug\calc2.0.csproj.GenerateResource.cache
+Y:\mallain\Visual Studio\calc2.0\calc2.0\obj\Debug\calc2.0.csproj.CoreCompileInputs.cache
+Y:\mallain\Visual Studio\calc2.0\calc2.0\bin\Debug\calc2.0.exe.config
+Y:\mallain\Visual Studio\calc2.0\calc2.0\bin\Debug\calc2.0.exe
+Y:\mallain\Visual Studio\calc2.0\calc2.0\bin\Debug\calc2.0.pdb
+Y:\mallain\Visual Studio\calc2.0\calc2.0\obj\Debug\calc2.0.exe
+Y:\mallain\Visual Studio\calc2.0\calc2.0\obj\Debug\calc2.0.pdb
